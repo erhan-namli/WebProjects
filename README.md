@@ -1,3 +1,3 @@
-# WebProjeleri
 
-**Bu depoda html-css-javascript kullanarak yapmış olduğum web sayfaları bulunuyor**
+
+This repository contains web pages that I have made using html-css-javascript.
